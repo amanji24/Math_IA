@@ -1,0 +1,9 @@
+n = number of elements
+k = number of digits (bits) required to represent the largest value in binary
+
+Radix sort becomes better @ n = 10^k where the steps = k * n [k * 10^k]
+
+Can be graphed on desmos:
+
+Radix: y = kx [slider for k]
+Quicksort: y = x * logx

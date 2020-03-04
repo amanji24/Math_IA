@@ -1,0 +1,13 @@
+With Outliers:
+
+Mean: 47.042
+Standard Deviation: 1010.11615
+Variance: 1020334.6
+
+––––––––––
+
+Without Outliers:
+
+Mean: 38.22435
+Standard Deviation: 6.8211255
+Variance: 46.527752
