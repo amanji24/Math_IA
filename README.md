@@ -1,4 +1,4 @@
-# Math_IA
+# Math IA
 
 This repository contains all the code used in my IB Math IA.
 
